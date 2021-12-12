@@ -1,7 +1,8 @@
 package com.proy.entelgy.service.business.dto;
 
-public class PersonaDTOResponse {
+public class UserResponse {
 
+	
 	private String id;
 	private String email;
 	private String first_name;
